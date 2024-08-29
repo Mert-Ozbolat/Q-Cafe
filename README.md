@@ -9,11 +9,4 @@ This project is a cafe web page that I created using modern HTML5 and CSS3 techn
 • Easy Navigation: User-friendly menu and navigation options.
 
 # 📼Preview:
-![](./QCafe.gif)# Q-Cafe
-# Q-Cafe
-# Q-Cafe
-# Q-Cafe
-# Q-Cafe
-# Q-Cafe
-# Q-Cafe
-# Q-Cafe
+![](./QCafe.gif)
